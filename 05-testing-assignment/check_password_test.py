@@ -2,7 +2,7 @@ import pytest
 import System
 import unittest
 
-def check_password_test(system):
+def test_check_password(system):
     username = 'saab'
     password = 'notgoingtoworkhopefully'
     system.login(username, password)
