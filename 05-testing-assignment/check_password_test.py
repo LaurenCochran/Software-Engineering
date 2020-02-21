@@ -1,13 +1,13 @@
 import pytest
 import System
 
-def test_check_password(system):
+def test_check_password(database):
     username = 'saab'
     password = 'notgoingtoworkhopefully'
-    system.login(username, password)
+    database.login(username, password)
 
 @pytest.fixture
 def database_system():
-    system = System.System()
-    system.load_data()
-    return system
+    database = System.System()
+    database.load_data()
+    return database
