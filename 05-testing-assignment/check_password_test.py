@@ -1,7 +1,7 @@
 import pytest
 import System
 
-def password_test(database):
+def check_password_test(database):
     username = "saab"
     password = "notgoingtoworkhopefully"
     database.login(username, password)
