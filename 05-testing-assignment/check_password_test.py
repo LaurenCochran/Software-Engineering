@@ -1,6 +1,5 @@
 import pytest
 import System
-import unittest
 
 def test_check_password(system):
     username = 'saab'
@@ -11,4 +10,4 @@ def test_check_password(system):
 def database_system():
     system = System.System()
     system.load_data()
-    return database
+    return system
