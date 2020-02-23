@@ -12,4 +12,4 @@ def test_change_grade():
     databaseSystem.reload_data()
     databaseSystem.login('hdjsr7', 'pass1234')
     grades = databaseSystem.usr.check_grades('cloud_computing')
-    assert grades[0] == 50
+    assert grades['assignment1'] == 50
