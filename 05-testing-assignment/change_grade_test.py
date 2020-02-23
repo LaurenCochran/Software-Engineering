@@ -6,7 +6,6 @@ import System
 
 def test_change_grade():
     databaseSystem = System
-    databaseSystem.load_data()
     databaseSystem.login('cmhbf5', 'bestTA')
     databseSystem.usr.change_grade('hdjsr7', 'cloud_computing', 'assignment1', 50)
     databaseSystem.reload_data()
