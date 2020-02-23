@@ -43,7 +43,7 @@
           "ontime": true
         },
         "assignment2": {
-          "Grade": 100,
+          "grade": 100,
           "Submission Data": "2/3/20",
           "Submission": "Blah2 Blah2 Blah2",
           "ontime": true
