@@ -1,6 +1,7 @@
 import pytest
 import Staff
 import User
+import System
 
 
 def test_change_grade():
