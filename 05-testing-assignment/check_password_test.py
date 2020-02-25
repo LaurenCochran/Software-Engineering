@@ -1,25 +1,22 @@
 import pytest
 import System
+import Professor
 
 def test_check_password1():
     database = System.System()
     database.load_data()
     username = 'saab'
     password = 'notgoingtoworkhopefully'
-    database.login(username, password)
-
-def test_check_password2():
-    database = System.System()
-    database.load_data()
-    username = 'saab'
+    res = database.check_password(username, password)
+    assert res == False
     password = '12121*^^&as'
-    database.login(username, password)
-
-def test_check_password3():
-    database = System.System()
-    database.load_data()
-    username = 'saab'
+    res = database.check_password(username, password)
+    assert res == False
     password = 1234
-    database.login(username, password)
+    res = database.check_password(username, password)
+    assert res == False
+    password = 'boomr345'
+    res = database.check_password(username, password)
+    assert res == True
 
 
