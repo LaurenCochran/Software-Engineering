@@ -1,6 +1,6 @@
 #
 Zoom Session 
-I want to attend the April 2 and April 9 at 11am: Augur Working Group
+- I want to attend the April 2 and April 9 at 11am: Augur Working Group
 
 
 ##
