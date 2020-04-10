@@ -13,6 +13,9 @@
 - How many animals had been re-adopted (look at animal ID)
 - Most common breeds among the different animals
  Along with these computations, our software provides a tool to be able to manipulate the data upon these factors:
+ | Tables        | Are           | Cool  |Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|| ------------- |:-------------:| -----:|
+ 
  
  Animal ID | Name | DateTime | MonthYear | Date of Birth | Outcome Type | Animal Type  | Sex upon Outcome | Breed | Color
  --- | --- | ---
