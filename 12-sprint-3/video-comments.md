@@ -1,4 +1,4 @@
-### CHAOSS video reflection 
+###### CHAOSS video reflection 
 ## https://www.youtube.com/watch?v=MOWQegOw6Fk&feature=youtu.be 
 - Over the Evolution group and their metrics
 - Saw the review for a metric -- there is a waiting period in order to push requests. 
