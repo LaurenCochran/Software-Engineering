@@ -29,6 +29,11 @@
   To contribute, just start working on the code provided and issue a pull request for the data to be reviewed. If you are looking to create new functionality for the program, it first must be reviewed and discussed among the team, which can be brought up in a pull request, also. 
   
   We also hope to have more humane socities contributing in the future, so if you would like to provide data from your humane society please contact us, and we will add the needed data to the database. 
+  
+|Name |Quantity|
+|-----|--------|
+|Apple|3       |
+|Egg  |12      |
  
  
  ##### Reference 
