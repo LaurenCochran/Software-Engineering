@@ -12,7 +12,7 @@
 - Most frequently adopted animal
 - How many animals had been re-adopted (look at animal ID)
 - Most common breeds among the different animals
- <br>Along with these computations, our software provides a tool to be able to manipulate the data upon these factors: 
+ <br>Along with these computations, our software provides a tool to be able to manipulate the data upon these factors: <br>
 |Animal ID|Name|DateTime|MonthYear|Date of Birth|Outcome Type|Animal Type|Sex upon Outcome|Breed|Color|
 |---------|----|--------|---------|-------------|------------|-----------|----------------|-----|-----|
  to make a more specific analysis geared towards the user's needs. 
@@ -30,11 +30,6 @@
   
   We also hope to have more humane socities contributing in the future, so if you would like to provide data from your humane society please contact us, and we will add the needed data to the database. 
   
-|Name |Quantity|
-|-----|--------|
-|Apple|3       |
-|Egg  |12      |
- 
  
  ##### Reference 
  https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238
