@@ -12,8 +12,8 @@
 - Most frequently adopted animal
 - How many animals had been re-adopted (look at animal ID)
 - Most common breeds among the different animals
- <br>Along with these computations, our software provides a tool to be able to manipulate the data upon these factors: 
-- Animal ID|
+<br>Along with these computations, our software provides a tool to be able to manipulate the data upon these factors: 
+- Animal ID
 - Name
 - DateTime
 - MonthYear
