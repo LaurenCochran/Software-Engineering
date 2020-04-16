@@ -1,0 +1,9 @@
+# Why participate in Open Source?
+## https://opensource.com/article/19/11/why-contribute-open-source-software
+- This article pointed out that participating in Open Source Software is something that potential employers look for when hiring. I think this is very true, as when I interview for an internship, they did ask about side projects. At the time, since I had not taken this class, I didn't even think of participating in Open Source Software, which I think could potentially be a very managable thing to participate in since you don't have to think of the project yourself but you still get experience.
+- Another point brought up was that companies might work together with other companies for a common goal. I hadn't thought about this aspect; I mainly thought that Open Source Software would be good for debugging purposes, but I like the idea of companies working together since that can make project completion time quicker if more than one company is contributing. 
+- The article pointed out that you shouldn't be motivated only non-extrinsic things and that you shouldn't heavily rely on just on motivator. I think this is better said than done, though, especially if you're a volunteer working on the software. 
+
+## https://www.linuxfoundation.org/resources/open-source-guides/participating-open-source-communities/
+- This article points out that you can attract employers by contributing, which makes sense because employers can actually see your work first hand. This could lend itself to you being able to get a better job offer because of your skills.
+- Another point was that it can help with debugging, which I think is a smart decision for companies to make. It allows for users to potentially help with any bugs they encounter. Maybe some of the developers on the program wouldn't use the program themselves, so giving volunteers the option to contribute allows for a stronger program and more perspectives.
