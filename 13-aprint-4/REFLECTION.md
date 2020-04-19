@@ -1,0 +1,5 @@
+#Reflection
+- At first I looked at OpenID Connect, but when I went the website, there was comments about how hard it was to use, so I decided to not look further into it. I ended up using OAuth, because I was able to find a lot of videos about how to use it with the Passport library, which was easy to understand. 
+- I chose OAuth, because there was a lot of videos online to follow along, so it was the easiest option I found.
+- I got the login to work. It takes you to a login page, where you will first have to click the register button to register an account and then from there you go back to login and it just takes you to a generic page once you're logged in.
+- In the process some obstacles I encountered were finding resources that were too detailed. Originally, I found a lot of resources that had you login with the help of Google or Facebook, but that wasn't what I was looking for. I also found some resources that used Node.js, and I have never coded with that, but i have coded in JavaScript for my WebDevelopment class, so getting used to that and the tools I needed for it were a bit of an obstacle. 
